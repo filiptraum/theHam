@@ -160,9 +160,9 @@
       const btn = document.querySelectorAll('.about__item');
 
       const images = [
-        'url(../img/About/fon1.jpg)',
-        'url(../img/About/fon2.jpg)',
-        'url(../img/About/fon3.jpg)'
+        'url(img/About/fon1.jpg)',
+        'url(img/About/fon2.jpg)',
+        'url(img/About/fon3.jpg)'
       ];
 
       function setImgFon(i = 0) {
@@ -196,9 +196,9 @@
         const sliderBox = document.querySelector('.image-slider__image-box');
 
         const images = [
-          'url(../img/Home/fon1.jpg)',
-          'url(../img/Home/fon2.jpg)',
-          'url(../img/Home/fon3.jpg)'
+          'url(img/Home/fon1.jpg)',
+          'url(img/Home/fon2.jpg)',
+          'url(img/Home/fon3.jpg)'
         ];
 
         const links = [
